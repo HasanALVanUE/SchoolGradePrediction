@@ -1,4 +1,4 @@
-# Student Grade Prediction & Machine Learning Model Comparison
+# Student Grade Prediction & Machine Learning Model Comparisons
 
 This repository contains a comparative machine learning project that evaluates and compares **2 Simple Models** and **3 Ensemble Learners** using the Student Performance dataset from Kaggle.
 
